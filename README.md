@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**ZdzislawGrabdaUczelnia/ZdzislawGrabdaUczelnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZdzislawGrabdaUczelniaS22-31/ZdzislawGrabdaUczelnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
