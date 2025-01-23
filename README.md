@@ -1,12 +1,16 @@
-**ZdzislawGrabdaUczelniaS22-31/ZdzislawGrabdaUczelnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZdzislawGrabdaUczelniaS22-31/ZdzislawGrabdaUczelnia**
 
-Here are some ideas to get you startede:
+👩‍💻 Cześć! Jestem Zdzisław Grabda  
+🎓 Student informatyki na UG  
+📚 Wciąż zgłębiam świat technologii i programowania – uczę się każdego dnia!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💡 Obszary zainteresowań:  
+- Algorytmy i struktury danych  
+- Tworzenie aplikacji webowych  
+- Rozwiązywanie problemów i optymalizacja  
+
+🚀 Cele:  
+Chcę rozwijać swoje umiejętności w pracy nad realnymi projektami, budując portfolio krok po kroku. Wierzę, że nawet małe kroki prowadzą do wielkich osiągnięć!  
+
+📬 Skontaktuj się ze mną:  
+- z.grabda.243@studms.ug.edu.pl 
