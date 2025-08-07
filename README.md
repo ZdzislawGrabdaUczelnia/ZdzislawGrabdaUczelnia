@@ -1,16 +1,18 @@
 **ZdzislawGrabdaUczelniaS22-31/ZdzislawGrabdaUczelnia**
 
-👩‍💻 Cześć! Jestem Zdzisław Grabda  
-🎓 Student informatyki na UG  
-📚 Wciąż zgłębiam świat technologii i programowania – uczę się każdego dnia!  
+Cześć! Jestem Zdzisław Grabda, student informatyki
+Wciąż zgłębiam świat technologii i programowania – uczę się każdego dnia!  
 
-💡 Obszary zainteresowań:  
-- Algorytmy i struktury danych  
-- Tworzenie aplikacji webowych  
-- Rozwiązywanie problemów i optymalizacja  
+Mam podstawową znajomość tworzenia stron internetowych, programowania (C#, Python, React), baz danych (SQL / NoSQL), sieci komputerowych oraz systemów operacyjnych (Windows, Linux).  
+Eksperymentuję również z narzędziami graficznymi i dźwiękowymi.
 
-🚀 Cele:  
-Chcę rozwijać swoje umiejętności w pracy nad realnymi projektami, budując portfolio krok po kroku. Wierzę, że nawet małe kroki prowadzą do wielkich osiągnięć!  
+Obszary zainteresowań:  
+- Algorytmy i struktury danych, zwłaszcza w językach C
+- Tworzenie aplikacji webowych
+- Rozwiązywanie problemów i optymalizacja systemów
+- Uczenie maszynowe
+- Cyberbezpieczeństwo
 
-📬 Skontaktuj się ze mną:  
-- z.grabda.243@studms.ug.edu.pl 
+Cele:  
+Chcę rozwijać swoje umiejętności w pracy nad realnymi projektami, budując portfolio krok po kroku. Nawet małe kroki prowadzą do wielkich osiągnięć!  
+
