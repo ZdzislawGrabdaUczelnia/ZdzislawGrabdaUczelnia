@@ -1,6 +1,6 @@
 **ZdzislawGrabdaUczelniaS22-31/ZdzislawGrabdaUczelnia**
 
-Cześć! Jestem Zdzisław Grabda, student informatyki
+Witam! Jestem Zdzisław Grabda, student informatyki.
 Wciąż zgłębiam świat technologii i programowania – uczę się każdego dnia!  
 
 Mam podstawową znajomość tworzenia stron internetowych, programowania (C#, Python, React), baz danych (SQL / NoSQL), sieci komputerowych oraz systemów operacyjnych (Windows, Linux).  
